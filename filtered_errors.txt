@@ -1,0 +1,50 @@
+
+      + 
+FullyQualifiedEr 
+     rorId : 
+NativeComm  
+>   andError
+   
+  WARNING: 
+sun.misc.Unsaf
+  [INFO] Finished at: 2
+026-03-12T13:27:14+05:3
+0
+  [INFO] --------------
+-----------------------
+-----------------------
+------------
+> [ERROR] Failed to 
+execute goal org.apache
+.maven.plugins:maven-co
+mpiler-plugin:3.11.0:co
+mpile 
+(default-compile) on 
+project backend: Fatal 
+error compiling: java.l
+ang.ExceptionInInitiali
+zerError: com.sun.tools
+.javac.code.TypeTag :: 
+UNKNOWN -> [Help 1]
+> [ERROR] 
+> [ERROR] To see the 
+full stack trace of 
+the errors, re-run 
+Maven with the -e 
+switch.
+> [ERROR] Re-run Maven 
+using the -X switch to 
+enable full debug 
+logging.
+> [ERROR] 
+> [ERROR] For more 
+information about the 
+errors and possible 
+solutions, please read 
+the following articles:
+> [ERROR] [Help 1] http
+://cwiki.apache.org/con
+fluence/display/MAVEN/M
+ojoExecutionException
+
+
